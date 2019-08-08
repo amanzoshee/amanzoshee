@@ -12,5 +12,6 @@
        a = a - b;
      
        printf("a = %d\nb = %d\n",a,b);
+	printf("I made an update");
        return 0;
     }
